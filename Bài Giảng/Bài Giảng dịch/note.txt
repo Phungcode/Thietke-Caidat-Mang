@@ -1,0 +1,9 @@
+step by step
+top - down
+bottom - top
+
+
+data flow, data types, and processes
+
+
+CIR,DLCI,
